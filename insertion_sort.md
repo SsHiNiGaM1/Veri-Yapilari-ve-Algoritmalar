@@ -1,4 +1,7 @@
-# Insertion-Sort-Projesi
+# Proje 1
+
+
+## Insertion-Sort-Projesi
 
 
 **[22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:**
@@ -17,6 +20,6 @@ Dizi sıralandıktan sonra 18 sayısı average case kapsaına girer.
 **[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı:**
 
 * [2, 3, 5, 8, 7, 9, 4, 15, 6]
-[2, 3, 4, 8, 7, 9, 5, 15, 6]
-[2, 3, 4, 5, 7, 9, 8, 15, 6]
-[2, 3, 4, 5, 6, 9, 8, 15, 7]
+* [2, 3, 4, 8, 7, 9, 5, 15, 6]
+* [2, 3, 4, 5, 7, 9, 8, 15, 6]
+* [2, 3, 4, 5, 6, 9, 8, 15, 7]
