@@ -2,7 +2,7 @@
 
 ## Merge-Sort-Projesi
 
-Dizinin sort aşamaları;
+**Dizinin sort aşamaları:**
 
 
 
